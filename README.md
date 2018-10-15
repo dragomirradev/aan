@@ -7,7 +7,7 @@ It is hosted by the Language, Information, and Learning lab at Yale (LILY) - htt
 
 cite this paper:
 
- @inproceedings{Fabbri&al.18,
+@inproceedings{Fabbri&al.18,
 
     author =       {Fabbri, Alexander R and Li, Irene and Trairatvorakul, Prawat and He, Yijiao and Ting, Wei Tai and Tung, Robert and Westerfield, Caitlin and Radev, Dragomir R},  
     
@@ -17,5 +17,5 @@ cite this paper:
     
     booktitle =    {Proceedings of ACL}  
     
- }  
+}  
  
