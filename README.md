@@ -9,9 +9,14 @@ cite this paper:
 
 <blockquote>
 @inproceedings{Fabbri&al.18,
+    
     author =       {Fabbri, Alexander R and Li, Irene and Trairatvorakul, Prawat and He, Yijiao and Ting, Wei Tai and Tung, Robert and Westerfield, Caitlin and Radev, Dragomir R},  
+    
     title =        {TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource           Recommendation}, 
+    
     year =         2018, 
+    
     booktitle =    {Proceedings of ACL}  
+    
 }  
 </blockquote> 
